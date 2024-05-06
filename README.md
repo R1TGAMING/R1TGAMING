@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi I'm Ipii👋
 
+Aku Berasal Dari Indonesia. Hobi Aku Adalah Programming Dan Mengammbar. Saya Berdeveloper Sebagai Back-end Dan Suatu Saat Aku Akan Menjadi GameDeveloper. Oh Ya! Code Yang Aku Punya Itu Open Source Jadi Bisa Kalian Pakai Untuk Sebuah Referensi Atau Buat Nambah Fitur.
+
+### SKILL PROGRAMMING 
+- ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcyBshCiI95EdQS051MqClipf4fFd94SVALHPBz-WPrSqjrPHYVh0Db2H-&s=10)
+- 
 <!--
 **R1TGAMING/R1TGAMING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
