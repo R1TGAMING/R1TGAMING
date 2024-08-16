@@ -11,9 +11,9 @@ I’m currently learning Protocol Networking with Socket.IO and PeerJS
 
 - 💬 Ask me about **Express**
 
-- 📫 How to reach me **rafisofyangaming1234@gmail.com**
+- 📫 How to reach me **rafisofyantriyanto02@gmail.com**
 
-- ⚡ Fun fact **Forgetful lol**
+- ⚡ Fun fact **I'm Forgetful lol**
 </p>
 
 
