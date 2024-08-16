@@ -33,5 +33,5 @@ I’m currently learning Protocol Networking with Socket.IO and PeerJS
 
 
 <h3 align="left">| Support :</h3>
-<p><a href="https://www.buymeacoffee.com/ saweria.co/RYTGAMING "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt=" saweria.co/RYTGAMING " /></a></p><br><br>
+<a href = "https://saweria.co/RYTGAMING"><img src = "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F01c81f8c-18c9-47d7-b7ad-c04058016626_225x225.png" width = "65" alt = "saweria"></a>
 <br><p>Support Me For Hosting Website HeHe..</p>
