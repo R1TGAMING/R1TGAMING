@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src = 'https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif' width = '35'>, I'm IPI</h1>
-<h3 align="center">A Back-End / Bot Developer from Indonesia</h3>
+<h3 align="center">A Back-End / Bot Developer / Cloud Engineer from Indonesia</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=r1tgaming&label=Profile%20Views&color=ff00ff&style=flat" alt="r1tgaming" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r1tgaming" alt="r1tgaming" /></a> </p>
 
