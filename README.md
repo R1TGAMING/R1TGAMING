@@ -5,7 +5,7 @@
 
 ## <h3 align = "left">| About Me :</h3> 
 <p align = "left">
-I’m currently learning Debian Server With NGINX
+I’m currently learning Cloud Based with AWS
 
 - 👨‍💻 All of my projects are available at [https://link-tree-ipi.vercel.app/](https://link-tree-ipi.vercel.app/)
 
