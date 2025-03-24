@@ -3,11 +3,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=r1tgaming&label=Profile%20Views&color=ff00ff&style=flat" alt="r1tgaming" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r1tgaming" alt="r1tgaming" /></a> </p>
 
-<div class="justify">
- <div>
+  <img align="right" src="https://64.media.tumblr.com/6d91460cb41dda517b4c977eb1412f41/36e54229f95d1078-8b/s500x750/611d8ba34e203a108eceace15c8bc8246165810f.gif" width="200" style="border-radius:200%"/>
   <h3 align = "left">| About Me :</h3> 
-  <p align = "left">
-I’m currently learning scraping and ML 
+  <p>
+   I’m currently learning scraping and ML 
 
 - 👨‍💻 All of my projects are available at [https://link-tree-ipi.vercel.app/](https://link-tree-ipi.vercel.app/)
 
@@ -16,10 +15,9 @@ I’m currently learning scraping and ML
 - 📫 How to reach me **rafisofyantriyanto02@gmail.com**
 
 - ⚡ Fun fact **I'm Forgetful lol**
-   </p>
- </div>
-  <img align="right" src="https://64.media.tumblr.com/6d91460cb41dda517b4c977eb1412f41/36e54229f95d1078-8b/s500x750/611d8ba34e203a108eceace15c8bc8246165810f.gif" width="200" style="border-radius:200%"/>
-</div>
+  </p>
+
+
 
 
 
