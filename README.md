@@ -18,7 +18,7 @@ I’m currently learning scraping and ML
 - ⚡ Fun fact **I'm Forgetful lol**
    </p>
  </div>
-  <img align="right" src="https://64.media.tumblr.com/6d91460cb41dda517b4c977eb1412f41/36e54229f95d1078-8b/s500x750/611d8ba34e203a108eceace15c8bc8246165810f.gif" width="400" style="border-radius:200%"/>
+  <img align="right" src="https://64.media.tumblr.com/6d91460cb41dda517b4c977eb1412f41/36e54229f95d1078-8b/s500x750/611d8ba34e203a108eceace15c8bc8246165810f.gif" width="200" style="border-radius:200%"/>
 </div>
 
 
