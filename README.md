@@ -8,7 +8,7 @@
   <p>
    I’m currently learning scraping and ML 
 
-- 👨‍💻 All of my projects are available at [https://link-tree-ipi.vercel.app/](https://link-tree-ipi.vercel.app/)
+- 👨‍💻 All of my projects are available at [ipii.xyz](https://ipii.xyz)
 
 - 💬 Ask me about **Express**
 
