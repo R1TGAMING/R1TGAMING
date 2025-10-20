@@ -1,5 +1,5 @@
 <h1 align="center">Hi There! <img src = 'https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif' width = '35'>, I am IPI</h1>
-<h3 align="center">A Full-Stack / Bot Developer from Indonesia</h3>
+<h3 align="center">A Full-Stack Developer from Indonesia</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=r1tgaming&label=Profile%20Views&color=ff00ff&style=flat" alt="r1tgaming" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r1tgaming" alt="r1tgaming" /></a> </p>
 
@@ -9,8 +9,6 @@
    I’m currently learning scraping and ML 
 
 - 👨‍💻 All of my projects are available at [ipii.xyz](https://ipii.xyz)
-
-- 💬 Ask me about **Express**
 
 - 📫 How to reach me **rafisofyantriyanto02@gmail.com**
 
