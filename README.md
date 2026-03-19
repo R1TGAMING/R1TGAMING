@@ -8,7 +8,7 @@
 
 <hr>
 
-<p align="center">connect with me</p>
+<p align="center"><b>~ Let`s Connect ~</b></p>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -30,10 +30,48 @@
   About me
 </h1>
 
-<div style="display: flex; align-items: flex-center; justify-content: center; flex-direction: row; ">
-  <div>
-    hello, my name is Rafi Sofyan Triyanto or you can just call me Rafi. i have interested at technology like web development, bot, AI Agent, automation, etc. 
-  </div>
+<p> 
+<img align="left" src="https://raw.githubusercontent.com/R1TGAMING/R1TGAMING/refs/heads/main/images/img_gif_1.gif" width="300" /> 
 
-  <img src="https://raw.githubusercontent.com/R1TGAMING/R1TGAMING/refs/heads/main/images/img_gif_1.gif" height=50/>
-</div>
+```
+· · ─────── ·𖥸· ─────── · ·
+
+
+
+🪪 Username: ipii
+🧑🏻 Name: Rafi Sofyan
+📋 Description: hello, i`m from indonesia. i have interested at technology like Web Development, SysAdmin, Bot, AI Agent, Automation, etc. i was experienced at technology around 2+ years. so let`s connect with me.
+💫 Languages: Indonesia (primary language), English
+🏃🏻‍♂️ Hobby: Gaming 🎮, Coding 🧑‍💻
+🍀 Contact: rafisofyantriyanto02@gmail.com
+
+
+
+· · ─────── ·𖥸· ─────── · ·
+```
+
+</p>
+
+
+<h1>
+  Tech Stack
+</h1>
+
+<p>⬩➤ Tools</p>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,git,github,docker,gcp,npm,postman,firebase" />
+</a>
+&nbsp;
+<p>⬩➤ Web Development</p>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,vite,nextjs,firebase,supabase,tailwind,bootstrap,laravel,react,html,css,js,prisma,mongodb" />
+</a>
+&nbsp;
+<p>⬩➤ SysAdmin</p>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=debian,ubuntu,linux,grafana,py,neovim,mysql,docker,prometheus,powershell,php,nginx,gcp,aws" />
+</a>
+<p>⬩➤ Bot / AI Agents</p>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bots,discordjs,py,nodejs" />
+</a>
