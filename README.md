@@ -30,8 +30,8 @@
   About me
 </h1>
 
-<p> 
-<img align="left" src="https://raw.githubusercontent.com/R1TGAMING/R1TGAMING/refs/heads/main/images/img_gif_1.gif" width="300" /> 
+<p align="center"> 
+<img align="right" src="https://raw.githubusercontent.com/R1TGAMING/R1TGAMING/refs/heads/main/images/img_gif_1.gif" width="250" /> 
 
 ```
 · · ─────── ·𖥸· ─────── · ·
