@@ -11,15 +11,15 @@
 <p align="center"><b>~ Let`s Connect ~</b></p>
 
 <div align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/R1TGAMING">
     <img src="https://skillicons.dev/icons?i=github" height=40/>
 </a>
   &nbsp;
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/rafi-sofyan-triyanto-1b66b131b/">
     <img src="https://skillicons.dev/icons?i=linkedin" height=40 />
 </a>
   &nbsp;
-  <a href="https://skillicons.dev">
+  <a href="https://www.instagram.com/ipiilolz/">
     <img src="https://skillicons.dev/icons?i=instagram" height=40 />
 </a>
 </div>
