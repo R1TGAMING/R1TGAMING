@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/R1TGAMING/R1TGAMING/refs/heads/main/images/banner.jpeg"/>
-</p>
+![Github Stats](https://pixel-profile.vercel.app/api/github-stats?username=R1TGAMING&theme=journey&pixelate_avatar=false)
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79E9E&center=true&width=435&lines=Hi%2C+i%60m+ipii+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=cbccc6&center=true&width=435&lines=Hi%2C+i%60m+ipii+" alt="Typing SVG" /></a>
 </p>
 
 <hr>
@@ -27,7 +25,7 @@
 &nbsp;
 
 <h1>
-  About me
+  👨‍💻 About me
 </h1>
 
 <p align="center"> 
@@ -40,8 +38,8 @@
 
 🪪 Username: ipii
 🧑🏻 Name: Rafi Sofyan
-📋 Description: hello, i`m from indonesia. i have interested at technology like Web Development, SysAdmin, Bot, AI Agent, Automation, etc. i was experienced at technology around 2+ years. so let`s connect with me.
-💫 Languages: Indonesia (primary language), English
+📋 Description: Interest at Computer Science, Automation, Software Engineering and Games
+💫 Languages: Indonesia (Primary), English
 🏃🏻‍♂️ Hobby: Gaming 🎮, Coding 🧑‍💻
 🍀 Contact: rafisofyantriyanto02@gmail.com
 
@@ -54,7 +52,7 @@
 
 
 <h1>
-  Tech Stack
+  🛠️ Tech Stack
 </h1>
 
 <p>⬩➤ Tools</p>
@@ -71,7 +69,19 @@
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=debian,ubuntu,linux,grafana,py,neovim,mysql,docker,prometheus,powershell,php,nginx,gcp,aws" />
 </a>
-<p>⬩➤ Bot / AI Agents</p>
+<p>⬩➤ Bot / AI Agent</p>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bots,discordjs,py,nodejs" />
 </a>
+
+<h1>
+  📊 Stats
+</h1>
+
+
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R1TGAMING&theme=ayu_mirage&animation=load)
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=R1TGAMING&theme=ayu_mirage&animation=load)
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=R1TGAMING&theme=ayu_mirage&animation=load)
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=R1TGAMING&theme=ayu_mirage&animation=load)
+
+![Github Footer](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
