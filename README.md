@@ -78,16 +78,15 @@
   📊 Stats
 </h1>
 
-
 ![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R1TGAMING&theme=ayu_mirage&animation=load)
 ![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=R1TGAMING&theme=ayu_mirage&animation=load)
 ![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=R1TGAMING&theme=ayu_mirage&animation=load)
 ![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=R1TGAMING&theme=ayu_mirage&animation=load)
-
-![Github Footer](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/R1TGAMING/R1TGAMING/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/R1TGAMING/R1TGAMING/output/pacman-contribution-graph.svg">
     <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/R1TGAMING/R1TGAMING/output/pacman-contribution-graph.svg">
 </picture>
+
+![Github Footer](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
